@@ -2,6 +2,9 @@
 
 In this app, users will be able to search information on various songs, movies, or upcoming concerts. 
 
+Users can watch a demo of how this app works here:
+https://github.com/tinali91/liri-node-app
+
 Users can pass in one of the following commands:
 
 * concert-this
