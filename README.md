@@ -3,7 +3,7 @@
 In this app, users will be able to search information on various songs, movies, or upcoming concerts. 
 
 Users can watch a demo of how this app works here:
-https://github.com/tinali91/liri-node-app
+https://drive.google.com/file/d/13WoppX0GS9zsczb0bVeJeiWdGvmObMpb/view
 
 Users can pass in one of the following commands:
 
