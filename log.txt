@@ -1,0 +1,194 @@
+
+Venue name: Town Hall 
+Venue location: Button City, NY 
+Concert date: 12/05/18
+---------------------------
+Venue name: L'Olympia 
+Venue location: Paris,  
+Concert date: 12/18/18
+---------------------------
+Venue name: Olympia Theatre 
+Venue location: Dublin,  
+Concert date: 01/30/19
+---------------------------
+Venue name: SWG3 Studio Warehouse 
+Venue location: Glasgow,  
+Concert date: 02/01/19
+---------------------------
+Venue name: O2 Academy Birmingham 
+Venue location: Birmingham,  
+Concert date: 02/03/19
+---------------------------
+Venue name: The Forum (O2 Forum Kentish Town) 
+Venue location: London,  
+Concert date: 02/06/19
+---------------------------
+Venue name: Manchester Academy 
+Venue location: Manchester,  
+Concert date: 02/04/19
+---------------------------
+Venue name: Ancienne Belgique 
+Venue location: Brussels,  
+Concert date: 02/10/19
+---------------------------
+Venue name: O2 Forum Kentish Town 
+Venue location: London,  
+Concert date: 02/07/19
+---------------------------
+Venue name: VEGA - Musikkens Hus, Store Vega 
+Venue location: København V,  
+Concert date: 02/11/19
+---------------------------
+Venue name: Olympia Theatre 
+Venue location: Dublin,  
+Concert date: 01/29/19
+---------------------------
+Venue name: Grosse Freiheit 36 
+Venue location: Hamburg,  
+Concert date: 02/15/19
+---------------------------
+Venue name: L'Olympia Bruno Coquatrix 
+Venue location: Paris,  
+Concert date: 02/18/19
+---------------------------
+Venue name: Fryshuset 
+Venue location: Stockholm,  
+Concert date: 02/14/19
+---------------------------
+Venue name: Paradiso Grote Zaal 
+Venue location: Nieuw-amsterdam,  
+Concert date: 02/19/19
+---------------------------
+Venue name: TivoliVredenburg 
+Venue location: Utrecht,  
+Concert date: 02/21/19
+---------------------------
+Venue name: Carlswerk Victoria Club 
+Venue location: Koln,  
+Concert date: 02/22/19
+---------------------------
+Venue name: Kaufleuten 
+Venue location: Zurich,  
+Concert date: 02/25/19
+---------------------------
+Venue name: Brauerei Ottakringer 
+Venue location: Wien,  
+Concert date: 02/26/19
+---------------------------
+Venue name: Fabrique 
+Venue location: Milano,  
+Concert date: 02/27/19
+---------------------------
+Venue name: Sala Razzmatazz 1 
+Venue location: Barcelona,  
+Concert date: 03/02/19
+---------------------------
+Venue name: Sala Black Box (P. Vistalegre) 
+Venue location: Madrid,  
+Concert date: 03/03/19
+---------------------------
+Venue name: TonHalle 
+Venue location: Munchen,  
+Concert date: 02/17/19
+---------------------------
+Venue name: Richfield Avenue 
+Venue location: Reading,  
+Concert date: 08/23/19
+---------------------------
+Artist: Ace of Base 
+Song name: The Sign 
+Spotify url: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE 
+Album name: The Sign (US Album) [Remastered] 
+--------------------
+Artist: Ariana Grande 
+Song name: thank u, next 
+Spotify url: https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH 
+Album name: thank u, next 
+--------------------
+Title: Mr. Nobody 
+Release date: 26 Sep 2013 
+IMDB Rating: 7.9 
+Rotten Tomatoes Rating: 67% 
+Produced in: Belgium, Germany, Canada, France, USA, UK 
+Language: English, Mohawk 
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible. 
+Starring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham 
+--------------------
+Title: The Little Mermaid 
+Release date: 17 Nov 1989 
+IMDB Rating: 7.6 
+Rotten Tomatoes Rating: 92% 
+Produced in: USA 
+Language: English, French 
+Plot: A mermaid princess makes a Faustian bargain with an unscrupulous sea-witch in order to meet a human prince on land. 
+Starring: Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll 
+--------------------
+Venue name: The Theater at Madison Square Garden 
+Venue location: New York, NY 
+Concert date: 12/03/18
+---------------------------
+Venue name: Philadelphia Metropolitan Opera House 
+Venue location: Philadelphia, PA 
+Concert date: 12/04/18
+---------------------------
+Venue name: Palace Theatre 
+Venue location: Columbus, OH 
+Concert date: 12/09/18
+---------------------------
+Venue name: Fox Theatre 
+Venue location: Detroit, MI 
+Concert date: 12/06/18
+---------------------------
+Venue name: Old National Centre 
+Venue location: Indianapolis, IN 
+Concert date: 12/10/18
+---------------------------
+Venue name: Turning Stone Resort Casino 
+Venue location: Verona, NY 
+Concert date: 12/07/18
+---------------------------
+Venue name: Civic Opera House 
+Venue location: Chicago, IL 
+Concert date: 12/13/18
+---------------------------
+Venue name: The Riverside Theater 
+Venue location: Milwaukee, WI 
+Concert date: 12/12/18
+---------------------------
+Venue name: Abravanel Hall 
+Venue location: Salt Lake City, UT 
+Concert date: 12/16/18
+---------------------------
+Venue name: Bellco Theatre 
+Venue location: Denver, CO 
+Concert date: 12/15/18
+---------------------------
+Venue name: Arlene Schnitzer Concert Hall 
+Venue location: Portland, OR 
+Concert date: 12/19/18
+---------------------------
+Venue name: WaMu Theater 
+Venue location: Seattle, WA 
+Concert date: 12/18/18
+---------------------------
+Venue name: Microsoft Theater 
+Venue location: Los Angeles, CA 
+Concert date: 12/23/18
+---------------------------
+Venue name: Segerstrom Center for the Arts 
+Venue location: Costa Mesa, CA 
+Concert date: 12/29/18
+---------------------------
+Venue name: Fox Theater 
+Venue location: Oakland, CA 
+Concert date: 12/21/18
+---------------------------
+Venue name: San Diego Civic Theatre 
+Venue location: San Diego, CA 
+Concert date: 12/30/18
+---------------------------
+Artist: Backstreet Boys 
+Song name: I Want It That Way 
+Spotify url: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6 
+Album name: The Hits--Chapter One 
+--------------------

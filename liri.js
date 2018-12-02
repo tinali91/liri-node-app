@@ -36,12 +36,12 @@ function concertThis(userInput) {
                 var dayTime = moment(venues[i].datetime).format("MM/DD/YY")
 
                 var concertInfo = `\nVenue name: ${venues[i].venue.name} \nVenue location: ${venues[i].venue.city}, ${venues[i].venue.region} \nConcert date: ${dayTime}\n---------------------------`;
+                console.log(concertInfo)
 
                 fs.appendFile("log.txt", concertInfo, function (err) {
                     if (err) {
                         console.log(err);
-                    }
-                    console.log(concertInfo);
+                    }               
                 })
             }
         }
